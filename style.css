@@ -1,6 +1,7 @@
 .container {
 	display: flex;
 	justify-content: space-between;
+	margin: 31px 390px;
 }
 .left {
 	font-family: "Roboto", sans-serif;
@@ -11,7 +12,14 @@
 	background-color: rgb(241,197,14);
 }
 img {
-	height: 400px;
-	width: 400px;
-	border-radius: 200px;
+	height: 300px;
+	width: 300px;
+	border-radius: 158px;
+}
+ul {
+	list-style: none;
+	margin-left: -42px;
+}
+p {
+	font-style: italic;
 }
