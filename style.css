@@ -1,0 +1,17 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+}
+.left {
+	font-family: "Roboto", sans-serif;
+}
+.line {
+	height: 10px;
+	width: 221px;
+	background-color: rgb(241,197,14);
+}
+img {
+	height: 400px;
+	width: 400px;
+	border-radius: 200px;
+}
